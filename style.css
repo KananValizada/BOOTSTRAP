@@ -1,0 +1,26 @@
+.nav-logo {
+    font-size: 48px;
+    color: #506a85;
+    line-height: 1;
+}
+
+.nav-search {
+    width: 1rem;
+}
+.btn-color{
+    background-color: #00bb9c;
+    color:white;
+}
+.padding {
+    padding: 250px 0;
+}
+.bg-image{
+    background-image: url("https://i.pinimg.com/originals/a7/ae/0c/a7ae0c27f9cad623807c21e3cbda0437.jpg");
+
+}
+.bg-black{
+    background-color: rgba(0,0,200,0.3);
+}
+.color-white{
+    color: white;
+}
